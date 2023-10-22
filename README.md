@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47td58mb8e5lew7mev396d9ydddrpr0iyiw2li9qby&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" height="10%" width="100%">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47td58mb8e5lew7mev396d9ydddrpr0iyiw2li9qby&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="100%" height="500">
 
 <h1 align="center">Hi 👋, I'm KAVYA SAI ISHEKA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
