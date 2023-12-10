@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://isheka123.netlify.app/](https://isheka123.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://isheka123.netlify.app/](https://isheka1234.netlify.app/)
 
 - 📫 How to reach me **kavyasaiisheka.y20@iiits.in**
 
