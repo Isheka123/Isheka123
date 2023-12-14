@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RXj9_ypyDw6P6uFjF6MsX-gyriziEaaR/view?usp=share_link](https://drive.google.com/file/d/1RXj9_ypyDw6P6uFjF6MsX-gyriziEaaR/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-abd" alt="vikas-abd" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Isheka123" alt="Isheka123" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
