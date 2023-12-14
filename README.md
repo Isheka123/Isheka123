@@ -8,7 +8,7 @@
   
 -  👯 I’m looking to collaborate on **Front-end Real World Projects**
 
-- 🤝 I’m looking for help with **obtaining a job referral.**
+- 🤝 I’m looking for help with **a job referral.**
 
 - 📫 How to reach me **kavyasaiisheka.y20@iiits.in**
 
